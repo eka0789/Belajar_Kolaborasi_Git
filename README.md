@@ -1,9 +1,1 @@
 # Belajar_Kolaborasi_Git
-Tahapan Pengerjaan kolaborasi Git :
-1. Setup Environment Git
-2. Pull Request
-3. Resolve Conflict
-
-Tugas Akhir Fajryy
-
-Reset dan Revert

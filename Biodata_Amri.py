@@ -6,6 +6,7 @@ nama = "Mochamad Amri Putra Karyadi"
 hobi = "Mengetik dan Bermain badminton"
 alamat = "Gang Selagedang 3"
 kota = "Cianjur"
+print("SIUUUUUUUUUUUUUUUU")
 
 print("Nama Lengkap :",nama)
 print("Alamat       :",alamat,"\n               kota ",kota)

@@ -4,7 +4,7 @@ print(40*"=")
 
 nama = "Mochamad Amri Putra Karyadi"
 hobi = "Mengetik dan Bermain badminton"
-alamat = "Gang Selagedang 3"
+alamat = "Gang Selagedang tiga"
 kota = "Cianjur"
 
 print("Nama Lengkap :",nama)

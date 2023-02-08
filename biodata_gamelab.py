@@ -7,6 +7,7 @@ hobi = "Membantu mengoptimalkan \n                skill programming"
 alamat = "Jalan Kalisombo No. 18"
 Kota = "Salatiga"
 Propinsi = "Jawa tengah"
+print("suiii")
 
 print("Nama Lengkap  :",nama)
 

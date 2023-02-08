@@ -17,5 +17,4 @@ print("Hobi          :", hobi)
 
 print ("Selamat Datang di",nama )
 print ("=======================================")
-print("its just you and i. And no other guys")
- 
+

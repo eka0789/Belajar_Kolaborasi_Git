@@ -14,6 +14,7 @@ print("Alamat        :",alamat, "\n                Kota ", Kota, "Propinsi ",Pro
 
 
 print("Hobi          :", hobi)
+print("Its youuu loving is eazy to dooo")
 
 print ("Selamat Datang di",nama )
 print ("=======================================")

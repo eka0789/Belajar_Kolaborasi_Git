@@ -1,3 +1,3 @@
 # Belajar_Kolaborasi_Git
 
-Coba update nama kamu disini dan asal kamu ya sebagai testing
+*Muhammad Akmal Firdaus Nahwan - Kota cianjur, Jl.Prof.Moch.Yamin Gg Santosa

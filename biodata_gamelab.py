@@ -8,7 +8,7 @@ alamat = "Jalan Kalisombo No. 18"
 Kota = "Salatiga"
 Propinsi = "Jawa Tengah"
 
-print("Ooomagaaa")
+print("Ooomagaaaa")
 
 print("Nama Lengkap  :",nama)
 

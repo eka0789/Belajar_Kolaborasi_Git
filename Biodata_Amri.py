@@ -10,4 +10,8 @@ kota = "Cianjur"
 print("Nama Lengkap :",nama)
 print("Alamat       :",alamat,"\n               kota ",kota)
 print("Hobi         :",hobi)
+print("overdose")
+print("waduhhh")
+print("bawaduhell")
+print("suiiiiiiiiiiiiii")
 print(40*"=")

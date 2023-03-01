@@ -2,9 +2,9 @@ print(40*"=")
 print("Program Biodata Sederhana Dengan Python")
 print(40*"=")
 
-nama = "Mochamad Amri Putra Karyadi"
+nama = "Moch. Amri Putra Karyadi"
 hobi = "Mengetik dan Bermain badminton"
-alamat = "Gang Selagedang 3"
+alamat = "Gg Selagedang 3"
 kota = "Cianjur"
 
 print("Nama Lengkap :",nama)

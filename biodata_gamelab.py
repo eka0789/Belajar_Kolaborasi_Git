@@ -1,20 +1,15 @@
-print ("=======================================")
-print ("Program Biodata Sederhana Dengan Python")
-print ("=======================================")
- 
-nama = "Gamelab Indonesia"
-hobi = "Membantu mengoptimalkan \n                skill programming"
-alamat = "Jalan Kalisombo No. 18"
-Kota = "Salatiga"
-Propinsi = "Jawa Tengah"
+print ("=========================================")
+print ("Prongram Biodata Sedaerhana Dengan Python")
+print ("=========================================")
+
+nama = "Pasha Muhamad Zildan"
+hobi = "Main Game"
+alamat = "Jalan K.H.Asnawi NO 29"
+Kota = "Cianjur"
 
 print("Nama Lengkap  :",nama)
-
-print("Alamat        :",alamat, "\n                Kota ", Kota, "Propinsi ",Propinsi)
-
-
+print("Alamat        :",alamat)
+print("Kota          :", Kota)
 print("Hobi          :", hobi)
 
-print ("Selamat Datang di",nama )
-print ("=======================================")
- 
+print ("=========================================")

@@ -2,7 +2,7 @@ print ("==========================================")
 print ("Program Biodata Sederhana Dengan Python")
 print ("==========================================")
 
-nama = "Muhammad Jamaluddin Al-Anshori"
+nama = "Muhammad Jamaluddin Al Anshori"
 hobi = "Olahraga bulu tangkis"
 alamat = "Cieundeur, Warungkondang"
 kota = "Cianjur, Jawa Barat"

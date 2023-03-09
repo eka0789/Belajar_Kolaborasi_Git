@@ -5,8 +5,8 @@ print ("=======================================")
 nama = "Gamelab Indonesia"
 hobi = "Membantu mengoptimalkan \n                skill programming"
 alamat = "Jalan Kalisombo No. 18"
-Kota = "Cianjut"
-Propinsi = "Jawa Baraat"
+Kota = "Salatiga"
+Propinsi = "Jawa Tengah"
 
 print("Nama Lengkap  :",nama)
 
@@ -17,7 +17,4 @@ print("Hobi          :", hobi)
 
 print ("Selamat Datang di",nama )
 print ("=======================================")
-print("confilct dong pwease")
-print("ahaha singing uhuhu")
-print("kimi ah a hah uh uh uh")
-      
+ 

@@ -11,6 +11,7 @@ Propinsi = "Jawa Tengah"
 print("Nama Lengkap  :",nama)
 <<<<<<master
 print("Alamat        :",alamat, "\n                Kota ", Kota, "Propinsi ",Propinsi)
+======
 print("Alamat        :",alamat, "\n                Kota ", Kota, "Propinsi)
 <<<<<<master
 print("Hobi          :", hobi)

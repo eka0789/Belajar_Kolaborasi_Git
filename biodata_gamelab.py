@@ -7,7 +7,6 @@ hobi = "jago dalam \n                skill programming"
 alamat = "Jalan tanah"
 Kota = "cianjur"
 Propinsi = "Jawa barat"
-
 print("Nama Lengkap  :",nama)
 print("Alamat        :",alamat, "\n                Kota ", Kota, "Propinsi ",Propinsi)
 print("Hobi          :", hobi)

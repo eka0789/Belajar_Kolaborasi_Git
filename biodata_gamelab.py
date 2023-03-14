@@ -9,7 +9,10 @@ Kota = "Cianjur"
 
 print("Nama Lengkap  :",nama)
 print("Alamat        :",alamat)
+===========
 print("Kota          :", Kota)
+<<>>
+<<>>
 print("Hobi          :", hobi)
 
 print ("=========================================")

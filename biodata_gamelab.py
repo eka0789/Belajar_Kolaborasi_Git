@@ -1,18 +1,16 @@
-print ("=========================================")
-print ("Prongram Biodata Sedaerhana Dengan Python")
-print ("=========================================")
-
+print ("=======================================")
+print ("Program Biodata Sederhana Dengan Python")
+print ("=======================================")
+ 
 nama = "Pasha Muhamad Zildan"
-hobi = "Main Game"
-alamat = "Jalan K.H.Asnawi NO 29"
+hobi = "Bermain games \n                "
+alamat = "Jalan K.H.Asnawi No. 29"
 Kota = "Cianjur"
+Propinsi = "Jawa Barat"
 
 print("Nama Lengkap  :",nama)
-print("Alamat        :",alamat)
-===========
-print("Kota          :", Kota)
-<<>>
-<<>>
+print("Alamat        :",alamat, "\n                Kota ", Kota, Propinsi)
 print("Hobi          :", hobi)
 
-print ("=========================================")
+print ("Selamat Datang di",nama )
+print ("=======================================")

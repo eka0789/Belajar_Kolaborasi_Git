@@ -9,7 +9,10 @@ Kota = "Cianjur"
 Propinsi = "Jawa Barat"
 
 print("Nama Lengkap  :",nama)
-print("Alamat        :",alamat, "\n                Kota ", Kota, Propinsi)
+
+print("Alamat        :",alamat, "\n                Kota ", Kota, "Propinsi", propinsi )
+
+
 print("Hobi          :", hobi)
 
 print ("Selamat Datang di",nama )

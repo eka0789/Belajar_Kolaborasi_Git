@@ -5,7 +5,7 @@ print ("=======================================")
 nama = "Gamelab Indonesia"
 hobi = "Membantu mengoptimalkan \n                skill programming"
 alamat = "Jalan Kalisombo No. 18"
-Kota = "Salatiga"
+kabupaten = "Salatiga"
 Propinsi = "Jawa Tengah"
 
 print("Nama Lengkap  :",nama)

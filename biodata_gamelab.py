@@ -10,7 +10,7 @@ Propinsi = "Bali"
 
 print("Nama Lengkap  :",nama)
 
-print ("Alamat        :",alamat)
+print ("Alamat        :",alamat, /n  Propinsi)
 
 
 print ("Hobi          :",hobi)

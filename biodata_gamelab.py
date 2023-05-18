@@ -9,9 +9,8 @@ alamat = "Jalan Kalisombo No. 18"
 Kota = "Salatiga"
 Propinsi = "Jawa Tengah"
 
-
+><printt
 print("Nama Lengkap  :",nama)
-print("Alamat        :",alamat, "\n                Kota ", Kota, "Propinsi ",
-      Propinsi)
+print("Alamat        :",alamat, "\n                Kota ", Kota, "Propinsi ",Propinsi)
 print("Hobi          :", hobi)
 print ("=======================================")

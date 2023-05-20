@@ -1,5 +1,1 @@
-Belajar Git Source Control
-
-Nama Lengkap : Muhammad Jamaluddin Al-Anshori
-
-Saya senang belajar git source control di Gamelab Indonesia 
+YAGITu   

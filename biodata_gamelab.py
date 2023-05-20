@@ -19,7 +19,3 @@ print ("Selamat Datang di",nama )
 print ("=======================================")
  
 
-
-  
-  
-  

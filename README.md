@@ -1,4 +1,4 @@
-# Belajar_Kolabolasi_Git
-Tahapan Pengerjaan Kolabolasi Git:
+# Belajar_kolabolasi_Git
+Tahapan pengerjaan git:
 
  1.Setup Environment Git

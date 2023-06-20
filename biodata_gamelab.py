@@ -12,7 +12,7 @@ print("Nama Lengkap  :",nama)
 print("Nama Lengkap  :",nama)
 
 print("Alamat        :",alamat, "\n                Kota ", Kota, "propinsi",Propinsi)
-as
+
 
 print("Hobi          :", hobi)
 

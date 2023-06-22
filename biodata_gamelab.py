@@ -10,10 +10,11 @@ Propinsi = "Jawa Tengah"
 
 print("Nama Lengkap  :",nama)
 
-print("Alamat        :",alamat, "\n                Kota ", Kota, "Propinsi ",Propinsi)
+
+1111111111
+7777
 
 
-print("Hobi          :", hobi)
 
 print ("Selamat Datang di",nama )
 print ("=======================================")

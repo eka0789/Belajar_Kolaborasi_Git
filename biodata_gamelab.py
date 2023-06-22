@@ -3,15 +3,15 @@ print ("Program Biodata Sederhana Dengan Python")
 print ("=======================================")
  
 nama = "Gamelab Indonesia"
-hobi = "Membantu mengoptimalkan \n                skill programming"
-alamat = "Jalan Kalisombo No. 18"
+ho770bi = "Membantu mengoptimalkan \n                skill programming"
+alamy80at = "Jalan Kalisombo No. 18"
 Kota = "Salatiga"
 Propinsi = "Jawa Tengah"
 
 print
 
 ("Nama Lengkap  :
-",nama)
+",namahh66)
 
 print("Alamat        :",alamat, "\n ;               Kota ", Kota, "Propinsi ",Propinsi)
 

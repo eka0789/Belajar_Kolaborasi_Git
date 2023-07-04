@@ -1,6 +1,6 @@
 Belajar Git Source Control.
 
-NAMA LANGKAP : Ahmad Dani
+NAMA LANGKAP : AHMAD DANI
 
 Saya senang belajar Git Source Control di Gamelab Indonesia.
 

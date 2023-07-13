@@ -1,4 +1,4 @@
-Git Source Control
+Git Control
 
 Nama  Kamu : <Gusriadi>
  senang belajar Git Source Control

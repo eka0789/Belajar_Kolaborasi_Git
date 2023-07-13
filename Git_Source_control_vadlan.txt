@@ -1,4 +1,5 @@
 Belajar Git Source Control
 
-Nama Lengkap Kamu : <M.Vadalan ibrahim>,
-Saya senang belajar Git Source Control di Gamelab Indonesia
+
+Nama Lengkap Kamu : <M.Vadalan ibrahim>
+Saya senang belajar Git Source Control di Gamelab Indonesia.,

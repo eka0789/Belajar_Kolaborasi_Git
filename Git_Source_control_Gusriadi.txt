@@ -1,4 +1,4 @@
 belajarGit Control
 
-Nama  Kamu : <Gusriadi>
+Nama : <Gusriadi>
 saya senang belajar Git Source Control

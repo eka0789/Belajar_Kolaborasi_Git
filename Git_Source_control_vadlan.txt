@@ -1,5 +1,5 @@
 Belajar Git Source Control.
 .
 .
-Nama Lengka.p Kamu : <M.Vadalan ibrahim>
+Nama Lengkap Kamu : <M.Vadalan ibrahim>
 Saya senang belajar Git Source Control di Gamelab Indonesia

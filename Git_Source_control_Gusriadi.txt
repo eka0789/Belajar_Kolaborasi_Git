@@ -1,4 +1,4 @@
-Belajar Git Source Control
+Git Source Control
 
 Nama Lengkap Kamu : <Gusriadi>
 Saya senang belajar Git Source Control di Gamelab Indonesia

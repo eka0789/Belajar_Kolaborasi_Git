@@ -1,6 +1,6 @@
 Belajar Git Source Control
 
-g
+s
 Nama Lengkap Kamu : <YUSRIZALDI>
 
 Saya senang belajar Git Source Control di Gamelab Indonesia

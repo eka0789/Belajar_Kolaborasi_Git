@@ -1,5 +1,5 @@
 Belajar Git Source Control
-j
+j/
 
 Nama Lengkap Kamu : <YUSRIZALDI>
 

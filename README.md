@@ -1,2 +1,2 @@
 # Belajar_Kolaborasi_Git
-*YUSRIZALDI - Gamelab Indonesia
+*YUSRIZALDI - Kota Padang

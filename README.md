@@ -1,3 +1,3 @@
 # Belajar_Kolaborasi_Git
 
-*Muhammad Fajry - Lubuk Basung
+*Muhammad Fajry - SMKN 2 Lubuk Basung

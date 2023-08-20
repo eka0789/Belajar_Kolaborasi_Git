@@ -1,3 +1,3 @@
 # Belajar_Kolaborasi_Git
 
-Siti Zulaika -- Kab.Agam
+Siti Zulaika - Kab.Agam

@@ -1,3 +1,5 @@
 # Belajar_Kolaborasi_Git
 
-Siti Zulaika - Kab.Agam
+Tahapan Pengerjaan kolaborasi Git :
+
+1. Setup Environment Git

@@ -1,4 +1,4 @@
 # Belajar_Kolaborasi_Git
 Tahapan Pengerjaan Kolaborasi Git :
 
-Setup Enviroment Git
+1.Setup Enviroment Git

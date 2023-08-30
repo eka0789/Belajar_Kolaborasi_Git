@@ -1,3 +1,4 @@
 # Belajar_Kolaborasi_Git
+Tahapan Pengerjaan Kolaborasi Git :
 
-*Yusrizaldi - Kota Padang
+1.setup Environment Git

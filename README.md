@@ -1,2 +1,3 @@
 # Belajar_Kolaborasi_Git
-*Adelia Safira-Gamelab Indonesia
+
+*Adelia Safira - SmkN 2 Lubuk Basung

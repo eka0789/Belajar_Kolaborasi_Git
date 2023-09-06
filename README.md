@@ -1,2 +1,3 @@
 # Belajar_Kolaborasi_Git
-1. setup environment Git
+
+* resa kairani putri - SMKN 2 LUBUK BASUNG

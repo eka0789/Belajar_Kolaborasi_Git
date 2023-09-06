@@ -1,2 +1,3 @@
 # Belajar_Kolaborasi_Git
-*M.Vadlan Ibrahim-Padang Baru
+Tahapan pengerjaan Kolaborasi Git:
+1.Setup Environment Git

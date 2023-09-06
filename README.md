@@ -1,4 +1,4 @@
 # Belajar_Kolaborasi_Git
+Tahapan Environment Git:
 
-*Ahmad Dani - SMK N 2 Lubuk Basung
-*
+1.setup Environment Git

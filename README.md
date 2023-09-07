@@ -1,4 +1,6 @@
 # Belajar_Kolaborasi_Git
+Belajar Git Source Control
 
-Belajar Git Source Control siti zulaika
+Nama lengkap : <Siti Zulaika>
+Saya senang belajar Git Source Control di Gamelab Indonesia
 

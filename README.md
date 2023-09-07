@@ -1,5 +1,5 @@
 # Belajar_Kolaborasi_Git
-Tahap Pengerjaan Kolaborasi Git:
 
+Tahapan Pengerjaan kolaborasi Git :
 
 1. Setup Environment Git

@@ -4,7 +4,7 @@ print ("Program Biodata Sederhana Dengan Python")
 print(garis)
 nama = "Gusriadi"
 hobi = "Service"
-alamat = "SMK N 2 Lubuk "
+alamat = "SMK N 2 Lubuk Basung"
 kabupaten = "Agam"
 print("Nama Lengkap :",nama)
 print("Alamat       :",alamat, "\n               Kabupaten", kabupaten)

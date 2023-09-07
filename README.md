@@ -2,4 +2,4 @@
 Tahap Pengerjaan Kolaborasi Git:
 
 
-1. Setup Environment Gitv
+1. Setup Environment Git

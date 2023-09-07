@@ -1,3 +1,4 @@
 # Belajar_Kolaborasi_Git
 
-*Gusriadi - Lubuk Basung
+Tahap Pengerjaan Kolaborasi Git:
+1. Setup Environment Git

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Belajar_Kolaborasi_Git
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -15,3 +16,7 @@ Tahap Pengerjaan Kolaborasi Git:
 >>>>>>> origin/development
 =======
 >>>>>>> e79cf9e (Update README.md)
+=======
+# Belajar_Kolaborasi
+mencoba perintah git rebase oleh siti zulaika
+>>>>>>> cb371b3 (update README.md)

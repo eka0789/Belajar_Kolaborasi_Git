@@ -1,2 +1,2 @@
-# Belajar_Kolaborasi_Git
-Belajar Reset dan revert
+# Belajar_Kolaborasi
+mencoba perintah git rebase oleh siti zulaika

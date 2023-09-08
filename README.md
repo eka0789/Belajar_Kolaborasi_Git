@@ -2,4 +2,4 @@
 mencoba perintah git rebase
  oleh siti zulaika 
  coba lagi
- coba lagi sampai bisa okey
+coba lgi bisa yok sampai bisa

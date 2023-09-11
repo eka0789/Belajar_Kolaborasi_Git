@@ -1,6 +1,10 @@
 
 # Belajar_Kolaborasi_Git
 
+*Angga Rici Pranata - SMK N 2 LUBUK BASUNG
+
+# Belajar_Kolaborasi_Git
+
 Tahap Pengerjaan Kolaborasi Git:
 1. Setup Environment Git
 2. pull Request
@@ -16,4 +20,5 @@ mencoba perintah git rebase
  oleh siti zulaika 
  coba lagi
 coba lgi bisa yok sampai bisa
+
 

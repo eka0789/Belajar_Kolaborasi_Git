@@ -1,6 +1,11 @@
 
 # Belajar_Kolaborasi_Git
 
+*Maya Desliani - Kab.Agam
+
+
+# Belajar_Kolaborasi_Git
+
 *Angga Rici Pranata - SMK N 2 LUBUK BASUNG
 
 # Belajar_Kolaborasi_Git
@@ -20,5 +25,6 @@ mencoba perintah git rebase
  oleh siti zulaika 
  coba lagi
 coba lgi bisa yok sampai bisa
+
 
 

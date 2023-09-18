@@ -1,3 +1,5 @@
 # Belajar_Kolaborasi_Git
-
-*Adelia Safira - SmkN 2 Lubuk Basung
+ Tahapan Pengerjaan Kolaborasi Git:
+1.Setup Enivironment Git
+2.Pull Request
+3.Resolve Conflict

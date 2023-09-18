@@ -2,3 +2,4 @@
 
 Tahap Pengerjaan Kolaborasi Git:
 1. Setup Environment Git
+2. pull Request

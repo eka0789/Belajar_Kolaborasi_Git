@@ -1,0 +1,14 @@
+print("=======================================")
+print("Program Biodata Sederhana dengan python")
+print("=======================================")
+
+nama = "maya desliani"
+hobi = "basket"
+alamat = "tengkong-tengkong padang dama"
+kota = "kabupaten agam"
+
+print("Nama lengkap :","Maya desliani")
+print("Alamat       :",alamat, "\n             Kota ", Kota) 
+print("Hobi         :", hobi
+      )
+print("======================================")

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Belajar_Kolaborasi_Git
 
@@ -9,3 +10,8 @@ mencoba perintah git rebase
  coba lagi
 coba lgi bisa yok sampai bisa
 
+=======
+# Belajar_Kolaborasi_Git
+Tahapan Pengerjaan Kolaborasi Git
+1. Setup Environment Git
+>>>>>>> origin/development

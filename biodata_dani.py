@@ -1,6 +1,10 @@
 print ("=========================================")
 print ("Program Biodata Sederhana Dengan Pythonn")
+
 print ("=========================================")
+
+
+print ("========================================")
 
 nama = "Ahmad Dani"
 hobi = "Programing"
@@ -10,4 +14,8 @@ print ("Nama Lengkap    :", nama)
 print ("Alamat          :", alamat)
 print ("Hobi            :", hobi)
 
+
 print ("=========================================")
+
+print ("========================================")
+

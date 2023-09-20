@@ -5,3 +5,5 @@ Tahapan Pengerjaan kolaborasi Git :
 3. Resolve Conflict
 
 Tugas Akhir Fajryy
+
+Reset dan Revert

@@ -8,3 +8,4 @@ Tahapan Environment Git :
 Tugas Akhir Ahmad Dani
 
 Reset Dan Revert 
+1

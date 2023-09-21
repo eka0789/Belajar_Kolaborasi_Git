@@ -6,6 +6,7 @@ nama = "Rafly S Hernando"
 hobi = "Badminton"
 alamat = "PT.AMP" sumatera barat
 kabupaten = "Agam"
+kotaaa
 print("Nama Lengkap :", nama)
 print("Alamat       :",alamat, "\n               Kabupaten", kabupaten)
 print("Hobi         :", hobi)

@@ -1,7 +1,8 @@
 print ("=======================================")
 print ("Program Biodata Sederhana Dengan Python")
 print ("=======================================")
- 
+
+nama =  kmkjml ,l;
 nama = "Muhammad Fajry"
 hobi = "Programming"
 alamat = "Padang"

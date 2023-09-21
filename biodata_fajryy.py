@@ -3,7 +3,7 @@ print ("Program Biodata Sederhana Dengan Python")
 print ("=======================================")
  
 nama = "Muhammad Fajry"
-hobi = "MAbar minecraft"
+hobi = "Programming"
 alamat = "Padang"
 Kota = "Lubuk Basung"
 

@@ -5,3 +5,6 @@ Tahapan Pengerjaan kolaborasi Git :
 3. Resolve Conflict
 
 Tugas Akhir Rafly
+
+
+Reset dan Revert

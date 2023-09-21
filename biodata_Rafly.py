@@ -10,3 +10,4 @@ print("Nama Lengkap :", nama)
 print("Alamat       :",alamat, "\n               Kabupaten", kabupaten)
 print("Hobi         :", hobi)
 print(garis)
+garis = "======================================="

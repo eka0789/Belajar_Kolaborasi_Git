@@ -1,6 +1,6 @@
-print ("=======================================")
+print ("========================================")
 print ("Program Biodata Sederhana Dengan Python")
-print ("=======================================")
+print ("========================================")
 
 nama = "Yusrizaldi"
 hobi = "Main sepak bola"
@@ -11,4 +11,4 @@ print("Nama Lengkap  :",nama)
 print("Alamat        :",alamat,  "\n                kota ", kota)
 print("Hobi          :",hobi)
 
-print ("=======================================")
+print ("========================================")

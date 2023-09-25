@@ -6,4 +6,4 @@ Tahap Pengerjaan Kolaborasi Git:
 2. pull Request
 3. Resolve Conflict
 
-Tugas Akhir Gusriadi
+Tugas Akhir Gusriadii

@@ -7,3 +7,4 @@ Tahap Pengerjaan Kolaborasi Git:
 3. Resolve Conflict
 
 Tugas Akhir Gusriadi
+.

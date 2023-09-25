@@ -1,5 +1,5 @@
-<<<<<<< HEAD
 # Belajar_Kolaborasi_Git
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -16,11 +16,15 @@
 >>>>>>> e79cf9e (Update README.md)
 =======
 >>>>>>> 3926808 (Update README.md)
+=======
+
+>>>>>>> 47be28ad638a6bfcbad95e07d1f4efcf75d12c0e
 Setup Environment git
 Tahap Pengerjaan Kolaborasi Git:
 1. Setup Environment Git
 2. pull Request
 3. Resolve Conflict
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -38,3 +42,5 @@ mencoba perintah git rebase oleh siti zulaika
 =======
 >>>>>>> e79cf9e (Update README.md)
 >>>>>>> 3926808 (Update README.md)
+=======
+>>>>>>> 47be28ad638a6bfcbad95e07d1f4efcf75d12c0e

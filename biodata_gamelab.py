@@ -6,7 +6,7 @@ nama = "Angga Rici Pranata"
 hobi = "Main Computer"
 alamat = "Lubuk Basung"
 Kota = "Padang"
-Propinsi = "Jawa Tengah"
+Propinsi = "Sumatra Barat"
 
 print("Nama Lengkap  :",nama)
 

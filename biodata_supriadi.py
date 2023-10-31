@@ -5,16 +5,10 @@ print ("=======================================")
 nama = "Supriadi"
 hobi = "main bola Volly"
 alamat = "Kinali"
-kota = "pasaman Barat"
+kota = "Pasaman Barat"
 
 print("Nama Lengkap :",nama)
 print("Alamat       :",alamat, "\n              kota ", kota)
 print("Hobi         :", hobi)  
 
 print("========================================")
-print("========================================")
-
-print("========================================")
-
-print("========================================")
-

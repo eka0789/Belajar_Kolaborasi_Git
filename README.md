@@ -1,6 +1,3 @@
 # Belajar_Kolaborasi_Git
-
-Tahap Pengerjaan Kolaborasi Git:
+Tahapan Pengerjaan Kolaborasi Git :
 1. Setup Environment Git
-2. pull Request
-3. Resolve Conflict

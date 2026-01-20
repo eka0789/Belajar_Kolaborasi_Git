@@ -1,0 +1,3 @@
+Belajar Git Source Control
+
+Git memudahkan kerja tim dalam satu project.

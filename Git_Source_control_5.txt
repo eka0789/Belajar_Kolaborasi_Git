@@ -1,0 +1,3 @@
+Belajar Git Source Control
+
+Commit digunakan untuk menyimpan perubahan ke repository.

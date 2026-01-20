@@ -1,0 +1,3 @@
+Belajar Git Source Control
+
+Git digunakan untuk menyimpan dan mengelola perubahan file.

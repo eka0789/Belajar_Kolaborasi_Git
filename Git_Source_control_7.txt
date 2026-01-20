@@ -1,0 +1,3 @@
+Belajar Git Source Control
+
+Pull Request digunakan untuk menggabungkan perubahan.

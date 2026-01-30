@@ -2,8 +2,8 @@ print ("=======================================")
 print ("Program Biodata Sederhana Dengan Python")
 print ("=======================================")
  
-nama = "Gamelab Indonesia"
-hobi = "Membantu mengoptimalkan \n                skill programming"
+nama = "Zubair Aqwam"
+hobi = "Membantu mengoptimalkan dan Melatih \n                skill programming"
 alamat = "Jalan Kalisombo No. 18"
 Kota = "Salatiga"
 Propinsi = "Jawa Tengah"
@@ -17,5 +17,7 @@ print("Hobi          :", hobi)
 
 print ("Selamat Datang di",nama )
 print ("=======================================")
+print ("=======================================")
  
+
 

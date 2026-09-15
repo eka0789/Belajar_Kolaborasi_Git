@@ -4,7 +4,7 @@ print ("=======================================")
  
 nama = "Gamelab Indonesia"
 hobi = "Membantu mengoptimalkan \n                              skill programming"
-alamat = "Jalan Kalisombo No. 18"
+alamat = "Jalan Kalisombo No. " + "1" + "8"
 Kota = "Salatiga"
 Propinsi = "Jawa Tengah"
 

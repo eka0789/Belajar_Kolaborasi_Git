@@ -2,10 +2,10 @@ print ("=======================================")
 print ("Program Biodata Sederhana Dengan Python", str(1 + 1 + 1))
 print ("=======================================")
  
-nama = "Gamelab Indonesia"
+nama = "Faris Robbani"
 hobi = "Membantu mengoptimalkan \n                              skill programming"
-alamat = "Jalan Kalisombo No. " + "1" + "8"
-Kota = "Salatiga"
+alamat = "Batan. " + "1" + "8"
+Kota = "Boyolali"
 Propinsi = "Jawa Tengah"
 
 print("Nama Lengkap  :",nama)

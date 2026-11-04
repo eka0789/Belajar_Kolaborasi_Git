@@ -1,5 +1,7 @@
-Git_Source_Control_MarcelinoAlfin.txt'n*.log
+Git_Source_Control_MarcelinoAlfin.txt
+*.log
 temp/
 *.tmp
 .env
 vendor/
+node_modules/

@@ -2,3 +2,4 @@ Git_Source_Control_MarcelinoAlfin.txt'n*.log
 temp/
 *.tmp
 .env
+node_modules/

@@ -1,3 +1,7 @@
 # Belajar_Kolaborasi_Git
 
-Ainun
+#Reset Object
+
+Faris
+
+#Resolve Object

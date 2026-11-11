@@ -1,3 +1,2 @@
 # Belajar_Kolaborasi_Git
-
-Ainun
+1. Setup Environment Git
